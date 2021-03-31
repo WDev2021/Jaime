@@ -1,5 +1,5 @@
 # MITxPro
-# GitHub 
+## GitHub 
 
 Website exercise 1 
 
