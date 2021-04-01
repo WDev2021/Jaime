@@ -1,7 +1,23 @@
 # MITxPro
-## GitHub 
+Website: https://wdev2021.github.io/Picture/
 
-Website exercise 1 
+## Name  
+Family picture
 
-This exercise shows a picture of my family  
-https://wdev2021.github.io/Picture/
+## Description  
+This is a practice exercise to learn who to upload a picture to the web
+
+## Installation 
+Copy the code ans change your picture
+
+## Usage
+Educational purposes
+
+## Support
+None
+
+## Roadmap
+Improvements comming according to the progress of the course
+
+## License information
+TBC
